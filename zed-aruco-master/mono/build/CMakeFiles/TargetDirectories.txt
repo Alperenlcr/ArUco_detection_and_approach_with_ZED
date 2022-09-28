@@ -1,3 +1,0 @@
-/home/alperenlcr/Code/zed-aruco-master/mono/build/CMakeFiles/rebuild_cache.dir
-/home/alperenlcr/Code/zed-aruco-master/mono/build/CMakeFiles/edit_cache.dir
-/home/alperenlcr/Code/zed-aruco-master/mono/build/CMakeFiles/ZED_Reloc_Aruco.dir
